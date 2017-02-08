@@ -29,4 +29,13 @@ Instructions
 * Fork and clone <https://github.com/lshilleto/expedia-challenge>
 * Add team members names in [MEMBERS.md](MEMBERS.md)
 * Push your solution back to your github fork once the challenge is complete.
-   
+
+Importing into your IDE
+-------------------
+### Intellij:
+1. Run the following command from the expedia-challenge directory to create the Intellij project files: `./gradlew idea`
+2. Choose import project from external model: gradle.
+3. Accept the default options
+### Eclipse:
+1. Run the following command from the expedia-challenge directory to create the Eclipse project files: `./gradlew eclipse`
+2. Choose Import existing projects option from the launch screen and select expedia-challenge as the root directory.   
