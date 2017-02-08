@@ -114,5 +114,5 @@ hs_err_pid*
 .idea/*
 .gradle/*
 build/*
-expedia-challenge.ipr
-expedia-challenge.iws
+*.ipr
+*.iml
