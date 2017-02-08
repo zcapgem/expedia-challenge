@@ -40,8 +40,7 @@ Instructions
 Importing into your IDE
 -------------------
 ### Intellij:
-1. Run the following command from the expedia-challenge directory to create the Intellij project files: `./gradlew idea`
-2. Choose import project from external model: gradle.
+1. Follow the instructions here to import the project from Gradle: https://www.jetbrains.com/help/idea/2016.3/importing-project-from-gradle-model.html
 3. Accept the default options
 
 ### Eclipse:
