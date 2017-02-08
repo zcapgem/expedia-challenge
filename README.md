@@ -2,7 +2,14 @@ Welcome to the 2017 Expedia challenge!
 ====================================================================
 Challenge
 ----------
-Build a simple standalone SEO content editing application.
+
+Our SEO specialists want a simple tool to edit a set of header elements on a web page. By header elements we mean the title and the description and keywords metadata. You can read more about them here http://www.w3schools.com/html/html_head.asp 
+
+The challenge is two folds:
+
+1. Build a simple standalone SEO content editing application
+2. Create a test suite in Junit that covers the main scenarios and few edge cases
+
 Constraints
 ------------
 * Java based console application
