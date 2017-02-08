@@ -2,7 +2,14 @@ Welcome to the 2017 Expedia challenge!
 ====================================================================
 Challenge
 ----------
-Build a simple standalone SEO content editing application.
+
+Our SEO specialists want a simple tool to edit a set of header elements on a web page. By header elements we mean the title and the description and keywords metadata. You can read more about them here http://www.w3schools.com/html/html_head.asp 
+
+The challenge is two folds:
+
+1. Build a simple standalone SEO content editing application
+2. Create a test suite in Junit that covers the main scenarios and few edge cases
+
 Constraints
 ------------
 * Java based console application
@@ -33,8 +40,7 @@ Instructions
 Importing into your IDE
 -------------------
 ### Intellij:
-1. Run the following command from the expedia-challenge directory to create the Intellij project files: `./gradlew idea`
-2. Choose import project from external model: gradle.
+1. Follow the instructions here to import the project from Gradle: https://www.jetbrains.com/help/idea/2016.3/importing-project-from-gradle-model.html
 3. Accept the default options
 
 ### Eclipse:
